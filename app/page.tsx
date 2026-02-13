@@ -16,7 +16,6 @@ export default function Page() {
         <Hero />
         <ToolsSection />
         <ShowcaseSection />
-        <TestimonialsSection />
         <PricingSection />
         <SocialSection />
       </main>
