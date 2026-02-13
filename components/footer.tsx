@@ -47,14 +47,7 @@ export function Footer() {
                   Productos
                 </a>
               </li>
-              <li>
-                <a
-                  href="#testimonios"
-                  className="text-sm text-primary-foreground/70 transition-colors hover:text-primary-foreground"
-                >
-                  Testimonios
-                </a>
-              </li>
+              
               <li>
                 <a
                   href="#precios"

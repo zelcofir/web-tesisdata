@@ -44,14 +44,7 @@ export function Navbar() {
               Productos
             </a>
           </li>
-          <li>
-            <a
-              href="#testimonios"
-              className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-            >
-              Testimonios
-            </a>
-          </li>
+          
           <li>
             <a
               href="#precios"
