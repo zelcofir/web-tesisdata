@@ -76,13 +76,13 @@ export function Footer() {
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-secondary" />
                 <span className="text-sm text-primary-foreground/70">
-                  contacto@tesisdata.com
+                  tesisdata.empresa@gmail.com
                 </span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-secondary" />
                 <span className="text-sm text-primary-foreground/70">
-                  +51 999 999 999
+                  +51 999 913 119
                 </span>
               </li>
               <li className="flex items-center gap-2">

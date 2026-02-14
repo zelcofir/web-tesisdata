@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { ArrowRight, BarChart3, FileText, FlaskConical } from "lucide-react"
 
-const WHATSAPP_URL = "https://wa.me/51999999999?text=Hola%2C%20quiero%20cotizar%20un%20servicio%20de%20TesisData"
+const WHATSAPP_URL = "https://wa.me/51999913119?text=Hola%2C%20quiero%20cotizar%20un%20servicio%20de%20TesisData"
 
 export function Hero() {
   return (

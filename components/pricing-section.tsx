@@ -10,7 +10,7 @@ import {
 import { Check, MessageCircle } from "lucide-react"
 import { cn } from "@/lib/utils"
 
-const WHATSAPP_URL = "https://wa.me/51999999999?text=Hola%2C%20quiero%20cotizar%20un%20servicio%20de%20TesisData"
+const WHATSAPP_URL = "https://wa.me/51999913119?text=Hola%2C%20quiero%20cotizar%20un%20servicio%20de%20TesisData"
 
 interface PricingPlan {
   name: string
