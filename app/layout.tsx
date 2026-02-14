@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: 'TesisData | Consultoría Estadística con R Studio',
   description:
     'Consultoría estadística de alto nivel con R Studio para tesis y publicaciones científicas. Rigor académico en formato APA/Vancouver.',
+  icons: {
+    icon: '/images/favicon.ico',
+  },
 }
 
 export const viewport: Viewport = {
