@@ -26,7 +26,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Semilla",
     emoji: "🌱",
-    price: "S/ 200",
+    price: "S/ 100",
     description: "Limpieza y preparación de datos",
     features: [
       "Limpieza de datos (Data Cleaning)",
@@ -38,7 +38,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Tesis",
     emoji: "🎓",
-    price: "S/ 560",
+    price: "S/ 360",
     description: "Descriptivo + Bivariado",
     popular: true,
     features: [
@@ -52,7 +52,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Investigador",
     emoji: "🔬",
-    price: "S/ 960",
+    price: "S/ 560",
     description: "Asociación + Medidas de riesgo",
     features: [
       "Todo lo del Plan Tesis",
@@ -64,7 +64,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Elite",
     emoji: "🏆",
-    price: "S/ 1,260",
+    price: "S/ 960",
     suffix: "+",
     description: "Diagnóstico o Multivariado",
     features: [
@@ -100,7 +100,7 @@ export function PricingSection() {
               className={cn(
                 "relative flex flex-col transition-all hover:shadow-lg",
                 plan.popular &&
-                  "border-2 border-secondary shadow-md shadow-secondary/10"
+                "border-2 border-secondary shadow-md shadow-secondary/10"
               )}
             >
               {plan.popular && (
