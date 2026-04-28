@@ -38,7 +38,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Tesis",
     emoji: "🎓",
-    price: "S/ 360",
+    price: "S/ 460",
     description: "Descriptivo + Bivariado",
     popular: true,
     features: [
@@ -52,7 +52,7 @@ const plans: PricingPlan[] = [
   {
     name: "Plan Investigador",
     emoji: "🔬",
-    price: "S/ 560",
+    price: "S/ 660",
     description: "Asociación + Medidas de riesgo",
     features: [
       "Todo lo del Plan Tesis",
